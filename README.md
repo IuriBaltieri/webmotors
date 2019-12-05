@@ -1,9 +1,9 @@
 É necessário ter o Node.js instalado.
 
-//Instalação das dependências do projeto
+Instalação das dependências do projeto:
 cmd> npm install
 
-//Iniciar App
+Para iniciar o App:
 cmd> npm start
 
 
