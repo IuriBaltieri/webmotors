@@ -1,0 +1,39 @@
+.tab-container {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.box {
+  background-color: #ffffff;
+  width: 100%;
+  height: 312px;
+}
+
+.btn-sellCar {
+  right: 0;
+  position: absolute !important;
+  text-transform: inherit !important;
+  padding: 3px 30px !important;
+  font-size: 13px;
+  border: 2px solid !important;
+  font-weight: 520;
+  color: #f69d26 !important;
+}
+
+.label-comprar-1 {
+  position: relative;
+  top: 15px;
+  left: 7.2%;
+  text-transform: uppercase;
+  font-size: 10px;
+  color: #898999;
+}
+
+.label-comprar-2 {
+  position: relative;
+  top: 15px;
+  left: 8.1%;
+  text-transform: uppercase;
+  font-size: 10px;
+  color: #898999;
+}
